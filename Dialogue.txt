@@ -1,0 +1,2 @@
+computer*Jay: 'This computer needs a usb to activate the program.'
+usb*Jay: 'I could use this usb to start up the computer.'
